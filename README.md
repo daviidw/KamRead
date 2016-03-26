@@ -20,5 +20,5 @@ KamRead
 
 Converted for non blocking operation.
 Result data in decimal int (*10 for one decimal)
-Error code in last int, so result data array must have an extra int for this.  
+Error code in last integer, so result data array must have an extra integer for this.  
 ------------
