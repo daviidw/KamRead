@@ -19,6 +19,6 @@ Changes made to allow readout of when all tx data have been sent
 KamRead
 
 Converted for non blocking operation.
-Result data in decimal int (*10 for one decimal)
+Result data in decimal int (x10 for one decimal)
 Error code in last integer, so result data array must have an extra integer for this.  
 ------------
